@@ -183,6 +183,6 @@
     "ext": "art,js,mjs,json"
   },
   "engines": {
-    "node": ">=16"
+    "node": "16.x"
   }
 }
